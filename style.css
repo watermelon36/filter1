@@ -1,0 +1,12 @@
+h1{
+    margin-top: 60px;
+    color:rgb(76, 255, 67);
+    border: rgb(0, 0, 0) 2px dashed;
+    width:25%;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+video{
+    border:pink 6px solid;
+    
+}
